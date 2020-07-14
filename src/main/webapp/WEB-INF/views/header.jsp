@@ -54,10 +54,7 @@
                                         </li>
                                         <li>
                                             <a href="#">Frankfurt</a>
-                                        </li>
-                                        <li>
-                                            <a href="#">Berlin</a>
-                                        </li>                                         
+                                        </li>                                        
                                     </ul>
                                 </li>
                             </ul>
